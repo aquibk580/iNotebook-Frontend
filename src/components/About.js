@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <>
-      <h1>
+      <h1 style={{marginLeft:"100px"}}>
        This App is created by <br /> Mr.Aquib Khan <br />
         Technologies used in this app: <br />
         1.HTML <br />
